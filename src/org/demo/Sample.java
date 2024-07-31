@@ -6,5 +6,9 @@ public class Sample {
 		
 		System.out.println("Picture");
 	}
+	private void addToCart() {
+		
+		System.out.println("Add to cart");
+	}
 
 }
